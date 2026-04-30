@@ -4,3 +4,6 @@ To analyze hotel booking data and identify the key factors influencing cancellat
 ## Dataset used
 -<a href="https://github.com/kinza-zaheer/Data-Analysis-Dashboard/blob/main/hotel%20_booking_cancellations%20(version%202).xlsb.xlsx">Dataset</a>
 - Dashboard Interaction <a href="https://github.com/kinza-zaheer/Data-Analysis-Dashboard/blob/main/screenshot....jpeg">View Dashboard</a>
+##Dashboard
+<img width="1501" height="614" alt="screenshot" src="https://github.com/user-attachments/assets/43a6e824-2e6e-4831-bcb0-92c3df9c0ec1" />
+
